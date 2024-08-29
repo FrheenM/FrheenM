@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrheenM
 - 👀 I’m interested in Data Analytics, Cybersecurity and Machine Learning models
 - 🌱 I’m currently learning cybersecurity fundamentals for certification
-- 💞️ I’m looking to collaborate on Data Analytics and ML
+- 💞️ I’m looking to collaborate on python programming for Data Analytics and ML modeling
 
 
 
